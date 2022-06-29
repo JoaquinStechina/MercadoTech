@@ -1,9 +1,9 @@
-# MercadoTech
+## MercadoTech
 Integrantes:
 - Joaquin Stechina :smiling_imp:
 - Paola Myroniuk :SMILING_FACE_WITH_THREE_HEARTS:
 - Jonatan Bordon
 - Matias Aplanalp :D
 
-# ***El tema que mas me gusto fue: LA TERMINAL-git bash***
-![imagen] (https://rm-rf.es/git-bash-windows-commands/)
+# El tema que mas me gusto fue:*** LA TERMINAL-git bash***
+![imagen] (https://rm-rf.es/wp-content/uploads/2019/04/git_bash_windows.png)
