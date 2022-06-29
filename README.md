@@ -1,6 +1,6 @@
 # MercadoTech
 Integrantes:
-- Joaquin Stechina
+- Joaquin Stechina :smiling_imp:
 - Paola Myroniuk
 - Jonatan Bordon
 - Matias Aplanalp :D
