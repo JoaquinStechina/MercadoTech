@@ -1,7 +1,6 @@
-# MercadoTech
-Integrantes:
-- Joaquin Stechina :smiling_imp:
-- Paola Myroniuk : :smiling_face_with_three_hearts:
-- Jonatan Bordon  : :nerd_face:
-- Matias Aplanalp :D
+#**_Git Bash_**
+Me gustó cuando dimos el tema de la consola Git Bash, esta es 
+una aplicación para entornos de Microsoft Windows que ofcrece una capa
+de emulación para una experiancia de líneas de comandos de Git.
 
+![Imagen git](https://gitforwindows.org/img/gwindows_logo.png)
